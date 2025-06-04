@@ -69,3 +69,113 @@ Reviewed and validated conditional logic across patient-facing UI components
 Documented and tracked QA findings in Jira to support efficient dev handoffs
 
 
+
+
+
+
+Information for the Charts:
+
+-Skills & Tools
+Proficiency with QA Tools
+(e.g., JIRA, Selenium, Postman, TestRail, Cypress)
+
+Testing Types Experience
+(Manual, Automation, UAT, Regression, Integration, Smoke)
+
+Programming/Scripting Language Familiarity
+(e.g., JavaScript, Python, SQL, Bash)
+
+Bug Severity Resolved
+Pie chart showing % of Critical, Major, Minor, Trivial issues found/fixed
+
+-Experience Metrics
+Projects Tested by Domain
+(e.g., Healthcare, Finance, SaaS, E-commerce)
+
+Bug Fix Rate Over Time
+Line graph showing bugs reported vs. bugs resolved
+
+Test Coverage Over Time
+Stacked area chart of features/modules vs. test cases written/executed
+
+Time Allocation
+(e.g., 40% writing test cases, 30% exploratory testing, 20% reporting, 10% meetings)
+
+-Achievements & Results
+Test Case Efficiency
+Ratio of test cases run vs. bugs uncovered
+
+Automated vs. Manual Tests
+Donut chart showing the breakdown of test execution method
+
+Performance Improvement After QA
+Before vs. After load times, crash rates, or error frequency
+
+UAT Feedback Scores
+Display average user acceptance satisfaction scores across projects
+
+-Professional Development
+Certifications Earned Over Time
+(e.g., ISTQB, Agile, Scrum, API testing certs)
+
+Skill Growth Timeline
+Radar chart to show growth in different QA skill areas over the years
+
+Courses Completed / Workshops Attended
+Timeline or bar graph of ongoing learning
+
+--Test Process Breakdown
+Test Lifecycle Phases
+Chart showing time spent in each phase (Planning, Design, Execution, Reporting)
+
+Defects by Environment
+Environments where bugs were found (Dev, QA, Staging, Production)
+
+Automation Coverage by Component
+Chart that breaks down what % of each component is covered by automation
+
+Cross-Browser/Device Testing Coverage
+Display number of browsers/devices tested per project
+
+--Impact & Outcomes
+Defects Prevented Pre-Release
+A metric to show how many issues were caught before hitting production
+
+Client Feedback Trends
+Sentiment analysis or rating chart from project stakeholders
+
+Release Readiness Confidence Levels
+Gauge or bar meter showing QA's readiness score per project
+
+Reduction in Bug Leakage to Production
+Line or bar graph showing how production bugs decreased over time due to improved QA processes.
+
+Cycle Time Reduction
+Show how you've helped reduce the time from bug discovery to resolution — great for demonstrating process efficiency.
+
+Regression Defects Caught Pre-Deployment
+Highlight the number of critical regression issues caught before they reached end users.
+
+Time Saved Through Automation
+Visualize hours or days saved across sprints by implementing automated test suites.
+
+QA Process Optimization Milestones
+Timeline chart of key process changes you initiated, like switching to test case management tools, improving ticket flow, or defining bug severity standards.
+
+Collaboration Efficiency Gains
+Show metrics around fewer back-and-forths with devs or improved bug report quality that led to faster fixes.
+
+Pre- vs. Post-QA Strategy Metrics
+Comparative chart showing project metrics before and after implementing a new QA strategy (e.g., % of escaped defects, time to test, defect resolution rate).
+
+Defect Density Over Time
+Track and display the average number of defects per feature or user story — this can highlight quality improvements project-to-project.
+
+Customer/Stakeholder Satisfaction After QA Changes
+Bar graph showing stakeholder confidence scores or feedback before and after you made a QA-related improvement.
+
+QA Coverage by Feature Area
+Show how you've expanded test coverage (manual or automated) to previously untested areas, improving product quality.
+
+Error Reproduction Rate
+Chart showing how accurately and quickly bugs were reproduced due to better documentation and testing clarity.

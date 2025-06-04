@@ -9,11 +9,6 @@ File Structure:
 
     pdf resume download
 
-
-
-
-layout:
-
-  fun, light
-
-  css animation to highlight areas of experience  
+  about
+  contact
+  skills

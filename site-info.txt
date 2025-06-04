@@ -1,0 +1,71 @@
+Quality Assurance Summary
+As a QA professional with hands-on experience in healthcare data systems, I have worked extensively with both pharmacy and medical data, ensuring its accuracy, integrity, and proper display across multiple platforms. My role required a deep understanding of complex medical coding systems such as NDC, ICD, CPT, and HCPCS, as well as the nuances between prescription and clinical data types. I routinely validated data pipelines, monitored data mapping for correctness, and ensured data met compliance standards for healthcare reporting and analytics.
+
+In addition to validating backend data, I performed thorough QA on front-end templates designed to present this information to users. These templates needed to display critical patient and claims data clearly, accurately, and in a user-friendly format. I tested for visual and structural consistency across browsers and devices, checked for formatting accuracy, and validated conditional logic to ensure dynamic content responded appropriately to different data inputs. My work ensured that the templates adhered to UX/UI standards while also accurately reflecting the underlying medical data.
+
+This dual focus on backend data quality and frontend display helped me build a well-rounded QA skill set, combining technical precision with a strong attention to detail in user experience and presentation.
+
+
+
+About Me
+Over the past decade, I’ve built a career rooted in the medical industry, with experience spanning data entry, pharmaceutical support, and quality assurance. I began my journey in healthcare through data entry roles, where I developed a strong foundation in accuracy, attention to detail, and working with sensitive patient information. That experience naturally led me into pharmacy, where I worked as a pharmaceutical technician. In that role, I gained firsthand knowledge of medication handling, insurance processes, and the importance of precision in every step of patient care.
+
+For the past two years, I’ve transitioned into Quality Assurance, where I’ve focused on ensuring the accuracy and usability of both medical and pharmacy data. I’ve combined my knowledge of healthcare workflows with strong technical and analytical skills to validate data integrity and ensure that digital templates display information correctly. My background has helped me understand not just the systems behind the data, but the real-world impact of getting it right.
+
+Working in healthcare has taught me that every detail matters, and I bring that mindset into every QA project I take on.
+
+
+Contact
+Have questions or want to connect? Whether you’re looking for a reliable QA professional or just want to talk about quality assurance in healthcare, feel free to reach out. I’m always open to new opportunities and conversations.
+
+
+Experience
+With over ten years in the medical industry and two years dedicated to quality assurance, my background spans pharmacy operations, clinical data handling, and QA testing. I've worked closely with pharmacy and medical data, validated display templates, and ensured data accuracy and compliance across systems.
+
+
+
+Skills
+Data Validation & Verification
+
+Functional & UI Testing
+
+Test Case Writing & Execution
+
+Issue Tracking & Reporting
+
+Cross-Device/Browser QA
+
+Attention to Detail in High-Compliance Environments
+
+Collaborative Communication Across Teams
+
+
+
+Tools
+Jira
+
+Confluence
+
+Microsoft Excel (Advanced)
+
+Postman (Basic API Testing)
+
+Chrome DevTools
+
+Figma (for visual template checks)
+
+Custom internal QA systems for healthcare platforms
+
+
+Work Examples
+Here are a few examples of projects I’ve worked on, focusing on medical and pharmacy data validation, as well as QA testing for template display:
+
+Verified ICD/CPT/HCPCS code mappings for provider and patient dashboards
+
+Performed cross-browser QA on responsive templates displaying pharmacy claims
+
+Reviewed and validated conditional logic across patient-facing UI components
+
+Documented and tracked QA findings in Jira to support efficient dev handoffs
+
+

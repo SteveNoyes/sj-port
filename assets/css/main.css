@@ -1,9 +1,11 @@
 :root {
-  --lite-green: #606c38;
-  --dark-green: #283618;
-  --off-white: #fefae0;
-  --lite-brown: #dda15e;
-  --dark-tan: #bc6c25;
+  --dark-blue: #0d1b2a;
+  --blue: #1b263b;
+  --lite-blue: #415a77;
+  --litest-blue: #778da9;
+  --off-white: #e0e1dd;
+  --tertiary: #ee9b00;
+  --error-red: #d62828;
   --white: #ffffff;
   --black: #000000;
 }
@@ -65,18 +67,21 @@
 }
 
 body {
-  background: #30303A;
-  font-family: 'Quicksand', sans-serif;
-  color: #ddd;
+  background: #778da9;
+  font-family: 'Rubik Regular', sans-serif, monospace;
+  color: #e0e1dd;
+  overflow-x: hidden;
 }
 
-h1, h2, h3 {
+h2, h3 {
   text-align: center;
 }
 
 h1 {
-  margin: 100px auto 0;
-  color: #F0B015;
+  color: #ffffff;
+  text-align: center;
+  padding-top: 25%;
+  padding-left: 10%;
 }
 
 h2 {
@@ -314,6 +319,7 @@ p {
 .box-piesite {
   text-align: center;
   font-size: 22px;
+  margin-bottom: 40px;
 }
 
 .piesite {
@@ -415,7 +421,7 @@ li.creativity .piesite > #slice > .pie {
 
 .box-piesite ul li {
   display: inline-block;
-  margin: 10px 20px;
+  margin: 10px 80px;
 }
 
 .chartBarsHorizontal .chartBars .bars {
@@ -475,6 +481,147 @@ li.creativity .piesite > #slice > .pie {
 
 /* General */
 
+.header-container {
+  max-width: 1500px;
+  margin: 0 auto;
+  padding: 0 20px;
+  overflow: hidden;
+}
+
+header {
+  background-color: #0d1b2a;
+  color: #fff;
+  padding: 10px 0;
+}
+
+#logo {
+  float: left;
+  font-size: 1.5em;
+  padding-top: 5px;
+  font-family: 'Rubik Medium';
+}
+
+nav {
+  float: right;
+}
+
+.nav-links {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+.nav-links li {
+  display: inline-block;
+  margin-left: 20px;
+}
+
+.nav-links li a {
+  color: #fff;
+  text-decoration: none;
+  padding: 10px 15px;
+  display: inline-block;
+  transition: background-color 0.3s;
+}
+
+.nav-links li a:hover {
+  background-color: #778da9;
+  border-radius: 15px;
+}
+
+.hero-section {
+  background-image: url("../images/luca-bravo-profile-image.jpg"); /* The image used */
+  background-color: #cccccc; /* Used if the image is unavailable */
+  height: 700px; /* You must set a specified height */
+  background-position: left top; /* Center the image */
+  background-repeat: no-repeat; /* Do not repeat the image */
+  background-size: cover; /* Resize the background image to cover the entire container */
+  text-align: center;
+}
+
+.hero-section h1 {
+  color: #ffffff;
+  font-family: 'Rubik Bold';
+  font-size: 60px;
+  text-align: left;
+}
+
+.hero-info p {
+  margin: 5% auto 0 !important;
+  font-family: 'Rubik Light';
+  font-size: 20px;
+}
+
+.down-arrow-wrapper {
+  text-align: center;
+}
+
+.down-arrow {
+  width: 25px;
+}
+
+.section-title {
+  text-align: center;
+  font-size: 2rem;
+  margin-bottom: 30px;
+}
+
+.card-container {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 20px;
+  max-width: 1100px;
+  margin: auto;
+}
+
+.card {
+  background: #ffffff;
+  border-radius: 16px;
+  padding: 30px;
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.06);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  cursor: pointer;
+  position: relative;
+  overflow: hidden;
+}
+
+.card:hover {
+  transform: translateY(-8px);
+  box-shadow: 0 15px 30px rgba(0, 0, 0, 0.1);
+}
+
+.card h3 {
+  font-size: 1.5rem;
+  color: #2c3e50;
+  margin-bottom: 15px;
+}
+
+.card p {
+  font-size: 1rem;
+  line-height: 1.6;
+  color: #555;
+}
+
+.card::after {
+  content: '';
+  position: absolute;
+  top: 0;
+  right: -100%;
+  width: 100%;
+  height: 100%;
+  background: rgba(52, 152, 219, 0.1);
+  transition: right 0.4s ease;
+  z-index: 0;
+}
+
+.card:hover::after {
+  right: 0;
+}
+
+.card-content {
+  position: relative;
+  z-index: 1;
+}
 
 
 /* Media Queries */
@@ -489,17 +636,3 @@ li.creativity .piesite > #slice > .pie {
   }
 
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-

@@ -49,9 +49,6 @@ ul {
   padding: 0;
 }
 
-h2 {
-}
-
 h3 {
   color: var(--orange);
   margin: 10px 0;
@@ -318,6 +315,17 @@ h3 {
   padding: 15px;
   margin: 0 4% 15px 0;
 }
+.resume .work {
+  border-radius: 10px;
+}
+.resume .edu {
+  border-radius: 10px 10px 0 0;
+  padding-top: 17px !important;
+}
+.resume .edu-cert {
+  border-radius: 0 0 10px 10px;
+  padding-bottom: 30px !important;
+}
 .resume .func .edu {
   width: 48%;
   background: var(--darker-blue);
@@ -346,12 +354,13 @@ h3 {
 }
 .resume .func .skills-prog ul li span {
   display: block;
-  width: 120px;
+  width: 600px;
 }
 .resume .func .skills-prog ul li .skills-bar {
   background: var(--white);
   height: 2px;
-  width: calc(100% - 120px);
+  /* width: calc(100% - 120px); */
+  width: 50px;
   position: relative;
   border-radius: 2px;
 }
@@ -363,11 +372,14 @@ h3 {
   box-shadow: 0 0 0 var(--orange);
   border-radius: 5px;
 }
+.resume .skills-prog, .resume .skills-soft {
+  border-radius: 10px;
+}
 .resume .func .skills-soft {
   clear: both;
   background: var(--darker-blue);
-  padding: 15px;
-  margin: 15px 0 0;
+  padding: 15px !important;
+  margin: 15px 0;
 }
 .resume .func .skills-soft ul {
   display: flex;

@@ -1,0 +1,61 @@
+Target Role: Quality Assurance Analyst | QA Specialist | QA Tester
+
+Name
+[Your Friend's Name]
+[Phone Number] • [Email Address] • [LinkedIn URL] • [City, State]
+
+Professional Summary
+Detail-oriented Quality Assurance Analyst with over a decade of experience in the pharmaceutical and healthcare data industry. Demonstrates expertise in template reviews, data verification, and quality control processes. Skilled in identifying discrepancies, enhancing QA workflows, and maintaining compliance with medical data standards.
+
+Professional Experience
+
+Norstella / MMIT – Yardley, PA
+Project/QA Analyst
+June 2023 – Present
+
+Reviewed pharmaceutical templates to verify formatting, data accuracy, and compliance with industry standards.
+
+Identified and documented data quality issues, contributing to root cause analysis and resolution.
+
+Introduced QA process improvements to streamline workflows and improve internal compliance.
+
+Patient Reimbursement Database Analyst (PRDB)
+April 2021 – June 2023
+
+Managed a complex database of 500+ specialty drug assistance programs.
+
+Ensured data integrity through collaboration, independent research, and timely updates.
+
+Verification Analyst
+January 2018 – April 2021
+
+Reviewed pharmacy-related data submissions and assessed accuracy of client information.
+
+Analyzed issues, escalated system defects, and provided feedback to improve services.
+
+Data Entry / Formulary Specialist
+September 2013 – January 2018
+
+Maintained accurate pharmacy data entry into internal systems.
+
+Supported QA checks and operational procedures during system transitions.
+
+Technical Skills
+
+Tools: Jira, Confluence, Postman (API Testing), Chrome DevTools, Figma (QA)
+
+Platforms: Microsoft Excel, SmartSheet, Power BI
+
+QA Skills: Issue Tracking, Data Validation, Compliance Checking, Template Auditing
+
+Education & Certifications
+Mercer County Community College – West Windsor, NJ
+Board of Pharmacy Certified Pharmacy Technician, 2006
+
+Strengths
+
+High attention to detail and accuracy
+
+Strong communication and documentation abilities
+
+Able to work both independently and on cross-functional teams

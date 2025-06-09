@@ -90,8 +90,8 @@ h2 {
 }
 
 p {
-  margin: 5vw auto;
-  padding: 0 5vw;
+  margin: 3vw auto;
+  padding: 0 1vw;
   line-height: 2em;
   max-width: 60em;
 }
@@ -626,6 +626,17 @@ nav {
 .skill-list-wrapper {
   max-width: 600px;
   margin: 0 auto;
+}
+
+.skill-list-wrapper h2 {
+  font-size: 25px;
+  text-decoration: underline;
+}
+
+.skill-list-wrapper p {
+  font-size: 20px;
+  padding: 5px 0;
+  margin: 5px 0;
 }
 
 #myBtn {

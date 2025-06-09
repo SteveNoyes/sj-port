@@ -4,34 +4,73 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Document</title>
-
+  <!-- Favicon -->
+  <link rel="apple-touch-icon" sizes="180x180" href="./favicon_io/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="./favicon_io/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="./favicon_io/favicon-16x16.png">
+  <link rel="manifest" href="./favicon_io/site.webmanifest">
+  <!-- CSS -->
+  <link rel="stylesheet" href="../css/reset.css">
+  <link rel="stylesheet" href="../css/main.css">
   <link rel="stylesheet" href="../css/contact.css">
+  <!-- Fonts Links For Icon -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css" />
 </head>
 <body>
-
-  <p>Have questions or want to connect? Whether you’re looking for a reliable QA professional or just want to talk about quality assurance in healthcare, feel free to reach out. I’m always open to new opportunities and conversations.</p>
-
+  <header>
+    <div class="header-container">
+      <div id="logo">Shakirah Johnson</div>
+      <nav>
+        <ul class="nav-links">
+          <li><a href="../../index.html">Home</a></li>
+          <li><a href="../pages/about.html">About</a></li>
+          <li><a href="../pages/resume.html">Resume</a></li>
+          <li><a href="../pages/contact.html">Contact</a></li>
+        </ul>
+      </nav>
+    </div>
+  </header>
+  <p>Have questions or want to connect? Whether you're looking for a reliable QA professional or just want to talk about quality assurance in healthcare, feel free to reach out. I'm always open to new opportunities and conversations.</p>
   <div class="container">
     <form action="" method="">
       <label for="fname">First Name</label>
       <input type="text" id="fname" name="firstname" placeholder="Your name..">
-
       <label for="lname">Last Name</label>
       <input type="text" id="lname" name="lastname" placeholder="Your last name..">
-
       <label for="country">Country</label>
       <select id="country" name="country">
         <option value="australia">Australia</option>
         <option value="canada">Canada</option>
         <option value="usa">USA</option>
       </select>
-
       <label for="subject">Subject</label>
       <textarea id="subject" name="subject" placeholder="Write something.." style="height:200px"></textarea>
-
       <input type="submit" value="Submit">
     </form>
   </div>
-  
+  <!-- Footer -->
+  <section class="footer">
+    <div class="footer-row">
+      <div class="footer-col">
+        <h4>Menu</h4>
+        <ul class="links">
+          <li><a href="../../index.html">Home</a></li>
+          <li><a href="../pages/about.html">About Me</a></li>
+          <li><a href="../pages/resume.html">Resume</a></li>
+        </ul>
+      </div>
+      <div class="footer-col">
+        <h4>Social</h4>
+        <div class="icons">
+          <a href="https://www.facebook.com/shakirah.ghantdavid" target="_blank">
+            <i class="fa-brands fa-facebook-f"></i>
+          </a>
+          <a href="https://www.linkedin.com/in/shakirah-ghant-david-58923a191/" target="_blank">
+            <i class="fa-brands fa-linkedin"></i>
+          </a>
+        </div>
+      </div>
+    </div>
+  </section>
 </body>
 </html>

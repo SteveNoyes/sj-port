@@ -10,6 +10,16 @@ body, html {
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
+.about-text h1 {
+  text-align: left !important;
+  padding-top: 0 !important;
+  padding-left: 0 !important;
+}
+
+.about-text p {
+  margin: 10px 0 !important;
+}
+
 /* About Me Section */
 .about-me {
   min-height: 100vh;

@@ -32,17 +32,13 @@
   </header>
   <p>Have questions or want to connect? Whether you're looking for a reliable QA professional or just want to talk about quality assurance in healthcare, feel free to reach out. I'm always open to new opportunities and conversations.</p>
   <div class="container">
-    <form action="" method="">
+    <form action="../php/submit.php" method="POST">
       <label for="fname">First Name</label>
-      <input type="text" id="fname" name="firstname" placeholder="Your name..">
+      <input type="text" id="fname" name="firstname" placeholder="Your name.." required>
       <label for="lname">Last Name</label>
-      <input type="text" id="lname" name="lastname" placeholder="Your last name..">
-      <label for="country">Country</label>
-      <select id="country" name="country">
-        <option value="australia">Australia</option>
-        <option value="canada">Canada</option>
-        <option value="usa">USA</option>
-      </select>
+      <input type="text" id="lname" name="lastname" placeholder="Your last name.." required>
+      <label for="email">Email</label>
+      <input type="email" id="email" name="email" placeholder="you@example.com" required>
       <label for="subject">Subject</label>
       <textarea id="subject" name="subject" placeholder="Write something.." style="height:200px"></textarea>
       <input type="submit" value="Submit">
